@@ -1,7 +1,7 @@
 export const filmsMock = [
   {
     id: 1,
-    imgUrl: './assets/img/Marvel1.jpg',
+    imgUrl: 'assets/img/Marvel1.jpg',
     movieName: 'Marvel One-Shot: Item 47',
     releaseYear: 2012,
     isFavourite: false,
